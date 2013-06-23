@@ -1,0 +1,6 @@
+PSPDEV
+ psptoolchain-20070626
+
+LIBRARY
+ zlib
+
